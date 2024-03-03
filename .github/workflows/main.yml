@@ -1,16 +1,1 @@
-educational-docs-software/
-│
-├── docs/                 # Documentação do projeto
-│
-├── src/                  # Código-fonte do software
-│   ├── analysis/         # Módulos para análise de documentos existentes
-│   ├── builder/          # Módulos para construção de novos documentos
-│   ├── database/         # Scripts para gerenciamento do banco de dados
-│   ├── ui/               # Código da interface de usuário
-│   └── utils/            # Funções utilitárias
-│
-├── tests/                # Testes automatizados
-│
-├── requirements.txt      # Dependências do projeto
-│
-└── README.md             # Instruções de instalação e uso
+
